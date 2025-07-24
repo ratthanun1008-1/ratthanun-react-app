@@ -97,7 +97,7 @@ const resources = [
     ),
   },
   {
-    href: "https://github.com/ratthanun1008-1/ratthanun-react-app",
+    href: "http://localhost:5173/Ozone-Lab03",
     text: "Lab03: Profile Component",
     icon: (
       <svg
