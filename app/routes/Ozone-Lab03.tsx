@@ -1,6 +1,7 @@
  // Filename Ozone-Lab03.tsx
 import Profile from "./components/Profile";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
  export default function MyProfile(){
     return (
         <>
@@ -26,7 +27,8 @@ import Contact from "./components/Contact";
         </div>
         <div className="ps-5 pe-5 pt-3 pb-3 bg-red-600 rounded w-16 flex justify-center mt-5">
         <a href="/">Back</a>
-    </div>
+        </div>
+        <Footer title="2025 Ratthanun Rukkarn. All Right Reserved." />
         </>
     );
  }
