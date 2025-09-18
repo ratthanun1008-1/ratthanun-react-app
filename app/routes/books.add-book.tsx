@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 export default function AddBook() {
     const [inputTitle, setInputTitle] = useState("");
     const [inputAuthor, setInputAuthor] = useState("");
